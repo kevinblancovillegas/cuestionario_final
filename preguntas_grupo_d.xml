@@ -5,21 +5,21 @@
 	
 <question id='jklm_001'>
 <type>text</type>
-		<title>¿La especie humana y los mamuts compartieron hábitat?</title>
+		<title>1.- ¿La especie humana y los mamuts compartieron hábitat?</title>
 			<answer>si</answer>
 </question>
 	
 	
 <question id='jklm_002'> 
 	<type>text</type>
-		<title>7.- ¿En honor de qué dios griego se celebraban los Juegos Olímpicos? (Poseidón, Zeus, Apolo, Heracles)</title>
+		<title>2.- ¿En honor de qué dios griego se celebraban los Juegos Olímpicos? (Poseidón, Zeus, Apolo, Heracles)</title>
 	<answer>Zeus</answer>
 </question>
 			
 	
 <question id='jklm_003'>
 	<type>checkbox</type>
-	<title>11.- ¿Cuáles fueron las posesiones del reino español en el siglo XVI?</title>
+	<title>3.- ¿Cuáles fueron las posesiones del reino español en el siglo XVI?</title>
 		<option>Toda América Latina</option>
 		<option>América Latina excepto Argentina</option>
 		<option>América Latina excepto Brasil</option>
@@ -29,7 +29,7 @@
 	
 <question id='jklm_004'>
 <type>checkbox</type>
-	<title>El hombre de Cro-Magnon se extinguió debido principalmente a:</title>
+	<title>4.- El hombre de Cro-Magnon se extinguió debido principalmente a:</title>
 		<option>a) Cambios Climáticos</option>
 		<option>b) Guerras y Mestizaje</option>
 		<option>c) Enfermedades</option>
@@ -48,7 +48,7 @@
 
 <question id='jklm_006'>
 	<type>select</type>
-	<title>13.- En América, ¿qué territorio descubrieron y colonizaron los portugueses?</title>
+	<title>6.- En América, ¿qué territorio descubrieron y colonizaron los portugueses?</title>
 		<option>a) Brasil</option>
 		<option>b) Chile</option>
 		<option>c) Argentina</option>
@@ -57,7 +57,7 @@
 
 <question id='jklm_007'>
 	<type>radio</type>
-	<title>6.- ¿Cuándo se fundó Roma?</title>
+	<title>7.- ¿Cuándo se fundó Roma?</title>
 		<option>a) Enero de 69 a.C.</option>
 		<option>b) Junio de 323 a.C.</option>
 		<option>c) Abril de 753 ó 752 a.C.</option>
@@ -68,7 +68,7 @@
 
 <question id='jklm_008'>
 	<type>radio</type>
-	<title>¿Cuál fue el primer homínido?</title>
+	<title>8.- ¿Cuál fue el primer homínido?</title>
 		<option>a) Homo Erectus</option>
 		<option>b) Homo Habilis</option>
 		<option>c) Australopithecus</option>
